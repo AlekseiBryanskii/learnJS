@@ -6,7 +6,7 @@
 </head>
 <body>
 <div id="test"></div>
-<div class="myclass"></div>
+<div class="myclass">2 див</div>
 <div class="myclass"></div>
 <div class="myclass"></div>
 <div class="myclass"></div>
